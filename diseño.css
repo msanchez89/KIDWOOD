@@ -192,7 +192,7 @@ html{
 }
 
 .banner{
-    background-image: linear-gradient(100deg, #000000, #00000020), url('Imagenes/banner.jpg');
+    background-image: linear-gradient(100deg, #000000, #00000020), url('banner.jpg');
     height: 60rem;
     background-size: cover;
     background-position: center;
@@ -297,14 +297,14 @@ html{
 }
 
 .category-apilamiento{
-    background-image: linear-gradient(#00000080, #00000080), url('Imagenes/apilables-category.jpg');
+    background-image: linear-gradient(#00000080, #00000080), url('apilables-category.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .category-arrastre{
-    background-image: linear-gradient(#00000080, #00000080), url('Imagenes/arrastre-categoory.jpg');
+    background-image: linear-gradient(#00000080, #00000080), url('arrastre-categoory.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
